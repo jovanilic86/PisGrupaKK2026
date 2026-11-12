@@ -1,1 +1,1 @@
-# PisGrupa2026
+# PisGrupaKK2026
