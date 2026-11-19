@@ -1,4 +1,4 @@
 # Projektni zahtev
 
 Ovaj folder sadrži zvaničnu PDF dokumentaciju
-projektnog zahteva informacionog sistema KampBasket.
+projektnog zahteva informacionog sistema CampBasket.
